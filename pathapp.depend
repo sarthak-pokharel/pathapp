@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1594194372 source:d:\programming\clangs\pathapp\main.cpp
+	<iostream>
+	"BatchFileBuilder.h"
+	"CodeSetBuilder.h"
+	"AppTools.h"
+
+1594191202 d:\programming\clangs\pathapp\include\batchfilebuilder.h
+	<iostream>
+	<list>
+	"CodeSetBuilder.h"
+
+1594190625 d:\programming\clangs\pathapp\include\codesetbuilder.h
+	<iostream>
+
+1594190252 source:d:\programming\clangs\pathapp\src\batchfilebuilder.cpp
+	"BatchFileBuilder.h"
+	<iostream>
+	<list>
+
+1594190537 source:d:\programming\clangs\pathapp\src\codesetbuilder.cpp
+	"CodeSetBuilder.h"
+	<iostream>
+
+1594191193 d:\programming\clangs\pathapp\include\apptools.h
+	<iostream>
+
+1594191117 source:d:\programming\clangs\pathapp\src\apptools.cpp
+	"AppTools.h"
+	<fstream>
+
