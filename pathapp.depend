@@ -55,3 +55,10 @@
 1594277105 d:\programming\cgroup\pathapp\include\apptools.h
 	<iostream>
 
+1594278179 source:d:\programming\cgroup\pathapp\src\apptools.cpp
+	"AppTools.h"
+	<iostream>
+	<fstream>
+	<sys/stat.h>
+	<sys/types.h>
+
