@@ -29,3 +29,29 @@
 	"AppTools.h"
 	<fstream>
 
+1594190252 source:d:\programming\cgroup\pathapp\src\batchfilebuilder.cpp
+	"BatchFileBuilder.h"
+	<iostream>
+	<list>
+
+1594191202 d:\programming\cgroup\pathapp\include\batchfilebuilder.h
+	<iostream>
+	<list>
+	"CodeSetBuilder.h"
+
+1594190625 d:\programming\cgroup\pathapp\include\codesetbuilder.h
+	<iostream>
+
+1594190537 source:d:\programming\cgroup\pathapp\src\codesetbuilder.cpp
+	"CodeSetBuilder.h"
+	<iostream>
+
+1594277094 source:d:\programming\cgroup\pathapp\main.cpp
+	<iostream>
+	"BatchFileBuilder.h"
+	"CodeSetBuilder.h"
+	"AppTools.h"
+
+1594277105 d:\programming\cgroup\pathapp\include\apptools.h
+	<iostream>
+

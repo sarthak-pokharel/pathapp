@@ -6,7 +6,7 @@
 
 using namespace std;
 
-string execContainerDir = "C:\\Programs\\bin";
+string execContainerDir = "C:\\envbin";
 string defaultExecExtention = "bat";
 string extentionSplitter = ".";
 
@@ -28,6 +28,7 @@ int main(int argc, char const *argv[])
             cout << "Please supply both two arguments" << endl;
 		return 0;
 	}
+    checkAndAddEnvFolder(execContainerDir);
 	string execname = argv[1];
 	string exepath = argv[2];
 	string execext = defaultExecExtention;

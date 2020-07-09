@@ -5,7 +5,7 @@ pathapp.exe sublime "C:\Program Files\Sublime Text 3\sublime_text.exe"
 
 ```
 
-The above command will create a batch script in `C:\Programs\bin\` folder. This folder should be in environment path. 
+The above command will create a batch script in `C:\envbin\` folder. This folder should be in environment path. 
 
 After you append this folder in Environment-Path-Variable, you'll be able to use the command `sublime` to access sublime_text.exe from any directory in cmd
 

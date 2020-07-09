@@ -5,6 +5,7 @@
 using namespace std;
 
 void saveBatchScript(string, string, string);
+void checkAndAddEnvFolder(string);
 
 class AppTools
 {
