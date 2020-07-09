@@ -1,4 +1,4 @@
-#Simple App to set app to path
+# Simple App to set app to path
 
 ```
 pathapp.exe sublime "C:\Program Files\Sublime Text 3\sublime_text.exe"
