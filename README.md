@@ -17,7 +17,7 @@ pathapp python2 "C:\Python27\python.exe"
 python2 --version
 python --version
 ```
-> Python 2.7.18rc1
+> Python 2.7.18rc1 
 > Python 3.8.3
 
 
