@@ -62,3 +62,36 @@
 	<sys/stat.h>
 	<sys/types.h>
 
+1620750108 source:d:\coding\projects\pathapp\main.cpp
+	<iostream>
+	"BatchFileBuilder.h"
+	"CodeSetBuilder.h"
+	"AppTools.h"
+
+1620750108 d:\coding\projects\pathapp\include\batchfilebuilder.h
+	<iostream>
+	<list>
+	"CodeSetBuilder.h"
+
+1620750108 d:\coding\projects\pathapp\include\codesetbuilder.h
+	<iostream>
+
+1620750108 d:\coding\projects\pathapp\include\apptools.h
+	<iostream>
+
+1620750108 source:d:\coding\projects\pathapp\src\apptools.cpp
+	"AppTools.h"
+	<iostream>
+	<fstream>
+	<sys/stat.h>
+	<sys/types.h>
+
+1620750108 source:d:\coding\projects\pathapp\src\batchfilebuilder.cpp
+	"BatchFileBuilder.h"
+	<iostream>
+	<list>
+
+1620750108 source:d:\coding\projects\pathapp\src\codesetbuilder.cpp
+	"CodeSetBuilder.h"
+	<iostream>
+
